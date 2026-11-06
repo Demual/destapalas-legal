@@ -6,8 +6,9 @@ solitarios para Android (`com.jrsoft.solitario`).
 > **Borrador** (06/11/2026, ORDEN CG-20261106-3). Todavía no se ha publicado:
 > el repositorio público `Demual/destapalas-legal` con GitHub Pages lo crea
 > la sesión del proyecto cuando Javier lo apruebe, con el contenido de esta
-> carpeta, como hicieron Lumidi y Siempre cabe. Antes de eso la revisa el
-> agente `legal`.
+> carpeta, como hicieron Lumidi y Siempre cabe. Revisada por el agente
+> `legal` el 06/11/2026 (ORDEN CG-20261106-9): la española ya vale como base
+> de las traducciones (`docs/legal/REVISION_PUBLICACION.md` del proyecto).
 >
 > - Están la española (la de referencia), la inglesa y la catalana. Las otras
 >   doce se traducen de la española cuando el `legal` la dé por buena, para no
